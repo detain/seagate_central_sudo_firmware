@@ -1,4 +1,4 @@
-# segate_central_sudo_firmware
+# seagate_central_sudo_firmware
 Seagate Central NAS script to download and patch the Firmware 
 re-adding sudo, ssh to root, and other removed things in the last patch.
 
